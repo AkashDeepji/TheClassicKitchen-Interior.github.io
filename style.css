@@ -1,0 +1,8 @@
+
+body { font-family: sans-serif; margin: 0; padding: 0; background: #fdfdfd; }
+header, footer { background: #222; color: white; text-align: center; padding: 20px; }
+.section { padding: 40px; }
+.gallery img { width: 250px; height: auto; margin: 10px; border-radius: 10px; }
+.reviews { background: #f0f0f0; padding: 20px; }
+form input, form textarea { width: 100%; padding: 8px; margin: 10px 0; }
+form button { padding: 10px 20px; background: #222; color: white; border: none; cursor: pointer; }
